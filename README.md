@@ -1,7 +1,3 @@
----
-theme: channing-cyan
----
-
 # 使用 `pnpm` 搭建 `monorepo` 项目
 
 `pnpm` 是什么：
